@@ -1,0 +1,14 @@
+<html>
+  <head> 
+    <title> internal script </title>
+  </head>
+  <body>
+    <script>
+        /*
+          I'm using the document object with the write method 
+          to write my name in an internal script
+        */
+        document.write("My name is xbunbon");
+    </script>
+  </body>
+</html>
